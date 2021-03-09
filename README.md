@@ -4,5 +4,7 @@
     <td><a target="_blank"  href="https://colab.research.google.com/github/giswqs/earthengine-py-notebooks/blob/master/Image/edge_detection.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" /> Run in Google Colab</a></td>
 </table>
 
+
+
 # JupyterNotebooks_ipynb
-A small collection of codes for [satellite analysis] and [data collection] 
+A small collection of codes for **satellite analysis** and **data collection** 
